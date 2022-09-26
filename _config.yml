@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Kathryn Loesel
+description: First Year PhD Student | Graduate Teaching Associate
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /about #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
@@ -13,7 +13,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
+twitter: "kmloesel"
 linkedin: "#"
 stackoverflow: "#"
 github: "#"
