@@ -48,7 +48,7 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - shortProject.md
+      - 2022-10-10-intro.md
       - longerProjectTitle.md
       - redirect.md
       - project4.md
