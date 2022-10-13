@@ -14,7 +14,6 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "kmloesel"
-linkedin: "#"
 instagram: "kmloesel"
 
 
@@ -42,12 +41,9 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - 2022-10-10-intro.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
+      - project1.md
+      - project2.md
+      - project3.md
 
 sass:
   sass_dir: /assets/css/_sass
