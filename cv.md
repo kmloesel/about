@@ -1,3 +1,12 @@
+---
+layout: about
+permalink: /cv/
+title: CV
+published: true
+---
+
+**Kathryn Loesel**
+
 **[Education]{.underline}**
 
 **Ph.D. -- Texts and Technology**
