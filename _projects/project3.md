@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Short Project
-description: description of the short project which is long enough
+title: HTTYD Analysis
+description: Analyzing representation and themes in the film trilogy
 ---
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 
