@@ -15,7 +15,7 @@ University of Central Florida, Orlando, Florida
 
 ### M.A. -- Film Theory and Criticism ###
 
-Thesis: ""The Case for Queer Representation: Queerbaiting in Modern
+Thesis: "The Case for Queer Representation: Queerbaiting in Modern
 Television Shows"
 
 Central Michigan University, Mount Pleasant, Michigan
@@ -62,7 +62,7 @@ BCA223 -- Introduction to Video Production
 
 ## Leadership Appointments ## 
 
-### _News Central_,Central Michigan University ###
+### _News Central_, Central Michigan University ###
 
 Senior Graphics Designer, January 2020 -- May 2021
 

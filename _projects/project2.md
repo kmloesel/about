@@ -41,24 +41,24 @@ Students will write an analytical essay that demonstrates the different theories
 
 Late essays will be penalized by 10% for each day it is late. 
 
-### Assignments ###
 Midterm Exam 	25%
 Final Exam 		25%
 Analytical Essay	 50%
 
-### Grading Scale ###
-A 	=	93-100%
-A-	=	90-92%
-B+	=	87-89%
-B	=	83-86%
-B-	=	80-82%
-C+	=	77-79%
-C	=	73-76%
-C-	=	70-72%
-D+	=	67-69%
-D	=	63-66%
-D-	=	60-62%
-E	=	59% and below
+Grade | Percentage
+--- | --- 
+A | 93-100%
+A- | 90-92%
+B+ | 87-89%
+B | 83-86%
+B- | 80-82%
+C+ | 77-79%
+C | 73-76%
+C- | 70-72%
+D+ | 67-69%
+D | 63-66%
+D- | 60-62%
+E | 59% and below
 
 ### Attendance Policy ###
 Attendance and participation are crucial for success in this course, but attendance will not be taken this semester. Taking an active role during film viewing and class discussion will enhance your overall experience in the course and positively affect your grade.
