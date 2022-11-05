@@ -158,6 +158,7 @@ Cavalier, S. (2011). *The world history of animation*. University of California 
 Fraustino, L. (2006). ‘Nearly everybody gets twitterpated’: The Disney version of mothering. *Children’s Literature in Education, 46*(2), 127-144.  
 
 Gunther, M. (1999, September). Eisner’s mousetrap. *Fortune*. https://archive.fortune.com/magazines/fortune/fortune_archive/1999/09/06/265291/index.htm
+
 Inge, M. T. (2004). Walt Disney’s Snow White and the Seven Dwarfs: Art adaptation and ideology. *Journal of Popular Film and Television, 32*(3), 132-142. 
 
 Inge, M. T. (2012). Walt Disney’s Song of the South and the politics of animation. *The Journal of American Culture, 35*(3), 219-230
