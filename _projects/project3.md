@@ -1,7 +1,7 @@
 ---
 layout: post
-title: HTTYD Analysis
-description: Analyzing representation and themes in the film trilogy
+title: Nolan's Filmography Analysis
+description: Analyzing Christopher Nolan's Filmography 
 ---
 ### Title ###
 
