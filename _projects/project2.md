@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fanily-Orientated Animated Films Syllabus
+title: Fanily-Orientated Animated Films
 description: Syllabus Development Showcase
 ---
 
