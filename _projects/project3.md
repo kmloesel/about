@@ -3,7 +3,7 @@ layout: post
 title: Nolan's Filmography Analysis
 description: Analyzing Christopher Nolan's Filmography 
 ---
-## Title ##
+## “You’re Just Not Good Enough”:Nolan’s Filmography Through a Feminist Lens ##
 
 ### Introduction ###
 The Bechdel Test, first introduced by Alison Bechdel in her comic strip *Dykes to Watch Out For*, has three steps a film must achieve to pass: there must be two or more named, female characters; they must talk to each other; and their conversation cannot revolve around a male character. While there are some flaws with using this test—like not taking race or sexuality into account—it is a great starting point when analyzing films with a feminist point of view. If the gender was reversed, almost all films would certainly pass without question or discussion. And the fact that many films made even this year don’t pass all three steps shows that the Bechdel Test is still a relevant tool. 
