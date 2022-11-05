@@ -9,8 +9,8 @@ description: Syllabus Development Showcase
 Fall 2020
 
 
-**Instructor:**Katie Loesel
-Email: loese1km@cmich.edu
+_Instructor:_ Katie Loesel
+*Email:* loese1km@cmich.edu
 Office: Moore 315G
 Office Hours: Wednesdays, 11am – 1pm, or by appointment
 
