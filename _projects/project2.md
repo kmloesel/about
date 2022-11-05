@@ -5,19 +5,20 @@ description: Syllabus Development Showcase
 ---
 
 ### BCA 729: Family-Orientated Animated Films ###
-
 Fall 2020
 
+*Instructor:* Katie Loesel
 
-_Instructor:_ Katie Loesel
 *Email:* loese1km@cmich.edu
-Office: Moore 315G
-Office Hours: Wednesdays, 11am – 1pm, or by appointment
 
-Bulletin Description
+*Office:* Moore 315G
+
+*Office Hours:* Wednesdays, 11am – 1pm, or by appointment
+
+### Bulletin Description ###
 In-depth examination of selected film genres, themes, and trends. This semester will focus on family-orientated animated films. 
 
-Prerequisite
+### Prerequisite ### 
 Limited to junior or above or graduate standing
 
 Textbook
