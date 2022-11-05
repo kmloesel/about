@@ -21,32 +21,32 @@ In-depth examination of selected film genres, themes, and trends. This semester 
 ### Prerequisite ### 
 Limited to junior or above or graduate standing
 
-Textbook
-Cavalier, S. (2011). The world history of animation. University of California Press. 
+### Textbook ###
+Cavalier, S. (2011). _The world history of animation_. University of California Press. 
 
-Other Materials
+### Other Materials ###
 Additional readings may be posted to Blackboard
 
-Course Objectives
+### Course Objectives ###
 Upon completing this course, students will be able to:
 1. Recognize the development of family-orientated aminated films from 1937 to 2018
 2. Identify key animated films and subgenres 
 3. Demonstrate how these films reflect the cultural values and social attitudes of the time 
 4. Apply different theories and academic perspectives to specific films and the genre
 
-Evaluation
+### Evaluation ###
 Students will complete a midterm and final exam. Both exams will be a combination of multiple choice, matching, and short answer. 
 
 Students will write an analytical essay that demonstrates the different theories and elements learned in this course. The essay will focus on a specific animated film or films. A film list to choose from will be posted to Blackboard. Specific assignment instructions will be posted to Blackboard later in the semester. The essay will be 8-10 pages for undergraduate students, and 10+ pages for graduate students. 
 
 Late essays will be penalized by 10% for each day it is late. 
 
-Assignments
+### Assignments ###
 Midterm Exam 	25%
 Final Exam 		25%
 Analytical Essay	 50%
 
-Grading Scale
+### Grading Scale ###
 A 	=	93-100%
 A-	=	90-92%
 B+	=	87-89%
@@ -60,49 +60,32 @@ D	=	63-66%
 D-	=	60-62%
 E	=	59% and below
 
-Attendance Policy
+### Attendance Policy ###
 Attendance and participation are crucial for success in this course, but attendance will not be taken this semester. Taking an active role during film viewing and class discussion will enhance your overall experience in the course and positively affect your grade.
 
-Students with Disabilities
+### Students with Disabilities ###
 Central Michigan University provides students with disabilities reasonable accommodations to participate in educational programs, activities, or services. Students with disabilities who require accommodation to participate in class activities or meet course requirements should contact the instructor as soon as possible so that arrangements can be made.  Students with disabilities requiring accommodation to participate in class activities or meet course requirements must first register with the Office of Student Disability Services (120 Park Library, telephone 774-3018; TDD 774-2586).  Reasonable accommodations will be determined on a case by case basis.
 
-Policy on Academic Integrity
+### Policy on Academic Integrity ###
 On May 5, 2009, the Central Michigan University Academic Senate approved the Policy on Academic Integrity which applies to all university students.  A link to the Policy can be found on the BCA website  www.bca.cmich.edu   All academic work is expected to be in compliance with this policy.
 
-School of BCA Policy on Classroom Civility
+### School of BCA Policy on Classroom Civility ###
 All CMU students are expected to comply fully with the Responsibilities of Students, as stated in the CMU Code of Student Rights, Responsibilities and Disciplinary Procedures, available online at http://www.cmich.edu/ess/studentaffairs/Pages/Code-of-Student-Rights.aspx
 
-School of BCA Policy on Class Absences
+### School of BCA Policy on Class Absences ###
 Absences for which the student is requesting special accommodation must be requested in advance and in writing.  These absences may adversely impact the student’s grade.
-
             
-Intellectual Property Protection Statement
+### Intellectual Property Protection Statement ###
 In order to protect the intellectual property interests of the instructor, the privacy interests of student members of the class, and to encourage an open and fair exposition of all student views in the classroom without fear that student views expressed will be recorded and possibly posted in another forum, recording of classroom lectures and conversations is not permissible without the express, prior written consent of the instructor.  Unauthorized recording of classroom activity shall be considered a violation of the CMU Student Code of Rights, Responsibilities and Disciplinary Procedures.
 
-Face Coverings and Social Distancing
+### Face Coverings and Social Distancing ###
 Face coverings, such as masks, and social distancing (6 feet apart) are required in all buildings and classrooms (CMU’s policy on face coverings). Students who have forgotten their face coverings may obtain a disposable mask from one of the 40 vending areas on campus. Vending machine locations are available on the Fired Up for Fall website.
 
 The evidence is clear that face coverings are a crucial part of keeping coronavirus at bay and support the university’s commitment to providing all members of its community with a safe, healthy, caring, and supportive environment.  Masks should cover the entire nose and mouth, per guidelines from the Centers for Disease Control (read guidelines here). Students whose unique and individual circumstances require an alternative face covering, as indicated by a medical condition may request one. To request an alternative, students should contact Student Disability Services (SDS).
 
 Refusing to wear a mask in any building or classroom without an accommodation letter from Student Disability Services is a violation of university regulations (section 3.2.31 of the Student Code of Conduct) and exposes the student to possible sanction for not adhering to university regulations. Refusing to maintain social distancing guidelines also violates the same university regulations.  Students not adhering to the policy on face coverings or social distancing will be asked to leave the classroom and the building. In addition, faculty and/or staff may file a report with the Office of Student Conduct.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Course Outline
+### Course Outline ###
 
 Read Before 1st Class: Cavalier, p.35-73
 
