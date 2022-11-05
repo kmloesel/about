@@ -41,13 +41,13 @@ Students will write an analytical essay that demonstrates the different theories
 
 Late essays will be penalized by 10% for each day it is late. 
 
-Assignment | Percentage
+### Assignments ###
 --- | ---
 Midterm Exam | 25%
 Final Exam | 25%
 Analytical Essay | 50%
 
-Grade | Percentage
+### Grade ###
 --- | --- 
 A | 93-100%
 A- | 90-92%
