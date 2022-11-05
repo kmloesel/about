@@ -87,23 +87,24 @@ Refusing to wear a mask in any building or classroom without an accommodation le
 
 ### Course Outline ###
 
-Read Before 1st Class: Cavalier, p.35-73
+Read Before 1st Class
+- Cavalier, p.35-73
 
-Week 1 – Introducing Disney, 1937-1970
-Watch in Class: Snow White and the Seven Dwarfs (1937)
-Read for Next Class: Cavalier, p.74-113
+Week 1: Introducing Disney, 1937-1970
+- Watch in Class: Snow White and the Seven Dwarfs (1937)
+- Read for Next Class: Cavalier, p.74-113
 
-Week 2 – Classic Disney, 1937-1970
-Watch in Class: Song of the South (1946); Peter Pan (1953)
-Read for Next Class: Cavalier, p.114-151
+Week 2: Classic Disney, 1937-1970
+- Watch in Class: Song of the South (1946); Peter Pan (1953)
+- Read for Next Class: Cavalier, p.114-151
 
-Week 3 – TV Specials & TV Films
-Watch in Class: Scooby-Doo and the Ghoul School (1988)
-Read for Next Class: Cavalier, p.152-189
+Week 3: TV Specials & TV Films
+- Watch in Class: Scooby-Doo and the Ghoul School (1988)
+- Read for Next Class: Cavalier, p.152-189
 
-Week 4 – Disney Renaissance, 1989-1999
-Watch in Class: Hercules (1997)
-Read for Next Class: Cavalier, p.190-229
+Week 4: Disney Renaissance, 1989-1999
+- Watch in Class: Hercules (1997)
+- Read for Next Class: Cavalier, p.190-229
 
 Week 5 – Introducing Pixar
 Watch in Class: Toy Story (1995)
